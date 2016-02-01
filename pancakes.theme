@@ -1,0 +1,21 @@
+Description="Solarized Dark"
+
+Default        = { Colour="#594F4F" }
+Canvas         = { Colour="#E5FCC2" }
+Number         = { Colour="#45ADA8" }
+Escape         = { Colour="#F77C7C" }
+String         = { Colour="#F77C7C" }
+StringPreProc  = { Colour="#F77C7C" }
+BlockComment   = { Colour="#2FD1D8" }
+PreProcessor   = { Colour="#F77C7C" }
+LineNum        = { Colour="#2FD1D8" }
+Operator       = { Colour="#E33258" }
+LineComment = BlockComment
+Interpolation  = Escape
+
+Keywords = {
+  { Colour= "#547980" },
+  { Colour= "#E33258" },
+  { Colour= "#547980" },
+  { Colour= "#45ADA8" },
+}
